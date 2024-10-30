@@ -136,8 +136,8 @@ body {
 .cape{
     animation: zoom 1s infinite alternate;
     background-color: #1a1a1a;
-    margin-left: 220px;
-    margin-right: 220px;
+    margin-left: 35%;
+    margin-right: 35%;
     height: 300px;
     left: 0;
     right: 0;
